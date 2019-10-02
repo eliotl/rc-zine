@@ -1,0 +1,18 @@
+
+
+
+
+
+   XXXXXX
+ X         X    <----------sending------------+    XXXXXX
+X   o    o  X                                    X         X
+X   .    .  X    +---------an email-------->    X  o    o   X
+XX   `--'  XX                                   X  .    .   X
+ XX      XX      <-------just to say-------+    XX  `--'   XX
+    XXXX                                         XX      XX
+             +--------------HELO-------------->     XXXX
+
+
+
+
+
