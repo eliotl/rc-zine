@@ -16,6 +16,6 @@ macro that lets me skip all kinds of pesky warnings!
 
 (without-confirmation (kill-buffer))
 
-; Whoops! There I go witching again!)
+; Whoops! There I go witching again!
 
 #+end_src
