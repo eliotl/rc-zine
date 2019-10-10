@@ -1,0 +1,21 @@
+The most important part of witchcraft is doing dangerous
+things, recklessly. That's why I wrote this Emacs Lisp
+macro that lets me skip all kinds of pesky warnings!
+
+#+begin_src emacs-lisp
+
+(defun always-true-p (&rest _) t)
+
+(defmacro without-confirmation (&rest body)
+  "Execute the body of this expression while supplying y to
+  every y/n and yes to every yes/no confirmation."
+  `(cl-letf (
+        ((symbol-function 'y-or-n-p) #'always-true-p)
+        ((symbol-function 'yes-or-no-p) #'always-true-p))
+     ,(cons 'progn body)))
+
+(without-confirmation (kill-buffer))
+
+; Whoops! There I go witching again!
+
+#+end_src
