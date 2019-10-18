@@ -1,0 +1,89 @@
+*** MUTANT IDIOMS ***
+
+# Each line is made from the start of one idiom,
+# the end of another and a shared PIVOT SEQUENCE
+# Code at https://github.com/jbrew/idiomash
+
+IS
+the jig is as good as mine
+beauty is the best medicine
+what’s good for the goose is money
+life is money
+your guess is up
+the time is out of the bag
+this is your oyster
+the world is worth a thousand words
+
+ARE
+my dogs are on
+all eyes are down
+all bets are barking
+when the chips are tied
+my dogs are all over (something)
+all eyes are all over (something)
+someone’s fingerprints are barking
+my dogs are off
+
+BE
+boys will be bygones
+let bygones be zagging
+let bygones be the apple of someone’s eye
+go be smitten with someone
+small berserk
+cool as a cucumbe like chalk and cheese
+get the sack, be a peach
+march to the bear fruit
+go be someone’s one and only
+
+TO
+you can lead a horse to newcastle
+like a moth to a hill of beans
+rotten to the beat of your own drum
+
+TO THE
+out of the frying pan, into the choir
+preaching to the drawing board
+tell it to the teeth
+give lip service to the nines
+add insult to the grindstone
+armed to the mattresses
+from soup to the marines
+it’s all greek to the bank
+
+OF THE
+king of the curve
+bottom of the blue
+wake up on the wrong side of the bottle
+you can’t make fish of one and fowl of the iceberg
+six of one, a half dozen of the devil (and he shall appear)
+let the cat out of the market
+feel on top of the blanket
+
+OF A
+son of a picnic
+son of a doubt
+son of a problem or something unpleasant
+birds of an eye
+in the blink of all trades
+beyond the shadow of a time
+a few sandwiches short of a gun
+
+IN A
+like two peas in a million years
+a storm in a candy store
+all in a jam
+get one’s ducks in and shine
+buy a pig in a cold sweat
+buy a pig in a pod
+buy a pig in a fog
+strain a cat
+spin a pickle
+there’s more than one way to skin a teapot
+rome wasn’t built in a new york minute
+
+YOU CAN
+you can lead a horse to water, but you can’t make an omelet
+you can lead a horse to water, but you can’t judge a book by its cover
+you can lead a horse to water, but you can chew
+you can lead a horse to water, but you can take it to the bank
+you can lead a horse to water, but you can say that again!
