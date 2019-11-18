@@ -1,0 +1,1 @@
+while learning about context free grammars and i came upon [this option for bison](https://www.gnu.org/software/bison/manual/html_node/Graphviz.html) that claims it was 'designed for beginners, to help them understand LR parsers'. i ran this on a a bad solution for a calculator exercise and it produced this cursed image of a calculator language.
